@@ -1,0 +1,18 @@
+# Raw dataset (7+ GB; do not redistribute on a public repo — see DataSEC license on Zenodo)
+DATASEC/
+
+# Local session memory / tool state
+.remember/
+.claude/settings.local.json
+
+# Python / notebooks
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

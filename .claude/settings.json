@@ -1,0 +1,6 @@
+{
+  "enabledPlugins": {
+    "academic-research-skills@academic-research-skills": true,
+    "claude-md-management@anthropic-plugin-directory": true
+  }
+}
